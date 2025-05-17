@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60"
             height="60" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-         <img src="https://cdn.simpleicons.org/django/092E20" alt="django" width="60" height="60" />
+         <img src="https://skillicons.dev/icons?i=django" alt="django" width="60" height="60" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="60" height="60" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
