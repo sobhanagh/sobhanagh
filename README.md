@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sobhan</h1>
 
-<h3 align="center">✨ Connect With Me ✨</h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sobhan-aghajani-79b377284/" target="_blank">
@@ -14,7 +14,7 @@
 
 ---
 
-# 🧠 Tech Stack
+# 🚀 Tech Stack
 
 ## 💻 Programming Languages
 <p align="left">
