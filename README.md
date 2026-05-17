@@ -34,5 +34,5 @@
 
 ## 🐳 DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git" />
 </p>
