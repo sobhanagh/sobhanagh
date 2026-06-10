@@ -14,7 +14,7 @@
 
 ## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,cs,php" />
 </p>
 
 ## 🎨 Frontend
@@ -24,7 +24,7 @@
 
 ## ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,dotnet" />
+  <img src="https://skillicons.dev/icons?i=laravel,django" />
 </p>
 
 ## 🗄️ Database
