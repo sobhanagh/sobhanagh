@@ -29,7 +29,7 @@
 
 ## 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ## 🐳 DevOps
