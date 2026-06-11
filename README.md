@@ -14,7 +14,7 @@
 
 ## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,cs,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,php" />
 </p>
 
 ## 🎨 Frontend
