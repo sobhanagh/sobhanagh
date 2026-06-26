@@ -10,29 +10,19 @@
 
 ---
 
-# 🚀 Tech Stack
-
-## 💻 Programming Languages
+# 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,php" />
 </p>
-
-## 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
-
-## ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,django" />
 </p>
-
-## 🗄️ Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
-
-## 🐳 DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git" />
 </p>
